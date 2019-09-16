@@ -1,2 +1,2 @@
 # WebDesignAssignment2
-HTML elements, attributes and other fundamentals
+HTML elements, attributes and other fundamentals 
